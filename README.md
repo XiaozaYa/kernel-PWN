@@ -1,2 +1,2 @@
 # kernel-PWN
-some kernel pwn practice questions.
+Some kernel pwn practice questions in CTF.
