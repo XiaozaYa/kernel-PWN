@@ -7,10 +7,3 @@ cd libmnl
 ./configure --prefix=/usr && make
 sudo make install
 cd ..
-
-git clone git://git.netfilter.org/libnftnl
-cd libnftnl
-./autogen.sh
-./configure --prefix=/usr && make
-sudo make install
-cd ..
